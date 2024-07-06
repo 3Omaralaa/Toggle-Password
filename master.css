@@ -1,0 +1,13 @@
+input {
+  padding: 10px 25px;
+  caret-color: blueviolet;
+  outline: none;
+  border-color: blueviolet;
+}
+
+button {
+  padding: 5px 10px;
+  margin-left: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
